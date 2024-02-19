@@ -29,13 +29,9 @@ width = "900"/>
 
 <h2 align="center">👨‍💻 Must Check Repositories </h2>
 
-| Binary Classifier | GPU Sudoku Solver | Passport OCR Web-App |
+| [Binary Classifier](https://github.com/Evaan2001/Binary_Image_Classifier) | [GPU Sudoku Solver](https://github.com/Evaan2001/GPU-Sudoku-Solver) | [Passport OCR Web-App](https://github.com/Evaan2001/Passport_OCR_App) |
 |----------|----------|----------|
 | [![Image 1](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Binary_Classifier.png)](https://github.com/Evaan2001/Binary_Image_Classifier) | [![Image 2](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Sudoku_Solver.png)](https://github.com/Evaan2001/GPU-Sudoku-Solver) | [![Image 3](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Passport_OCR.png)](https://github.com/Evaan2001/Passport_OCR_App) |
-
-| Column 1                                        | Column 2                                        | Column 3                                        |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Binary Classifier [![Image 1](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Binary_Classifier.png)](https://github.com/Evaan2001/Binary_Image_Classifier)  | GPU Sudoku Solver [![Image 2](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Sudoku_Solver.png)](https://github.com/Evaan2001/GPU-Sudoku-Solver)  | Passport OCR Web-App ![Image 3](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Passport_OCR.png)](https://github.com/Evaan2001/Passport_OCR_App) |
 
 
 <h3 align="left">Languages and Tools:</h3>
