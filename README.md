@@ -36,7 +36,8 @@ width = "900"/>
 
 <h3 align="center"> Technical Skills (Languages, Packages, Environments, & Tools):</h3>
 
-<h2 align="left"> Languages – </h3>
+<h1 align="left"> Languages – </h3>
+
 |  4 years  |  2 years  |   1 year  |
 |-----------|-----------|-----------|
 
