@@ -2,8 +2,6 @@
 <img  src="https://github.com/Evaan2001/Images_For_ReadMe/blob/main/SmallerCodingMario.gif"
 width = "900"/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=825&lines=Salaam+Walaikum!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
 
