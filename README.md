@@ -13,7 +13,7 @@ width = "900"/>
 
 - 💬 Ask me about **how I improve my ML work with my theatre experiences**
 
-- 📫 How to reach me **ahmedeva@grinnell.edu | [linkedin.com/in/evaan/](https://linkedin.com/in/evaan/)**
+- 📫 How to reach me **ahmedeva@grinnell.edu | * <img alt="Static Badge" src="https://img.shields.io/badge/My--LinkedIn-0077b5?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fevaan%2F">
 
 - 📄 Know about my experiences [<insert g–drive link>](<insert g–drive link>)
 
