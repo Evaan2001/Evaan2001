@@ -12,10 +12,13 @@ width = "900"/>
 - 🌱 I’m currently learning **the DeepLearning's Deep Learning Specialization on Coursera**
 
 - 💬 Ask me about **how I improve my ML work with my theatre experiences**
+- 
+-  <a href = "https://www.linkedin.com/in/evaan/"><img src = "https://img.shields.io/badge/My--LinkedIn-blue?logo=linkedin
+"> </a>
   
 - [![Static Badge]("https://img.shields.io/badge/My--LinkedIn-007Fa1?style=for-the-badge")]("https://www.linkedin.com/in/evaan")
 
-- 📫 How to reach me **ahmedeva@grinnell.edu | * <img alt="Static Badge" src="https://img.shields.io/badge/My--LinkedIn-0077b5?link=https%3A%2F%2Flinkedin.com%2Fin%2Fevaan%2F">
+- 📫 How to reach me **ahmedeva@grinnell.edu | ** 
 
 - 📄 Know about my experiences [<insert g–drive link>](<insert g–drive link>)
 
