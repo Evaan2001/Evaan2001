@@ -1,8 +1,5 @@
 [![MasterHead height = 300](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/SmallerCodingMario.gif)](https://github.com/Evaan2001)
 <h1 align="center">Hey There! I'm Evaan 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Salaam+Walaikum!+I'm+Evaan+%3A);Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&random=false&width=435&lines=Salaam+Walaikum!+I'm+Evaan+%3A+-+);Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
-
 <h3 align="center">An ML engineer who has deployed production code everywhere I've worked within 2 months of starting 😄</h3>
 <img align="right" alt="Coding GIF" width = 400 height = 250 src = "https://github.com/Evaan2001/Images_For_ReadMe/blob/main/profile.gif">
   
