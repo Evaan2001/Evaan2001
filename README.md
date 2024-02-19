@@ -4,8 +4,6 @@ width = "900"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=825&lines=Salaam+Walaikum!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-
-
 <h1 align="center">Hey There! I'm Evaan 👋</h1>
 <h3 align="center">An ML engineer who has deployed production code everywhere I've worked within 2 months of starting 😄</h3>
 <img align="right" alt="Coding GIF" width = 400 height = 250 src = "https://github.com/Evaan2001/Images_For_ReadMe/blob/main/profile.gif">
