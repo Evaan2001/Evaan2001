@@ -1,5 +1,6 @@
 [![MasterHead height = 300](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/SmallerCodingMario.gif)](https://github.com/Evaan2001)
 <h1 align="center">Hey There! I'm Evaan 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Evaan;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">An ML engineer who has deployed production code everywhere I've worked within 2 months of starting 😄</h3>
 <img align="right" alt="Coding GIF" width = 400 height = 250 src = "https://github.com/Evaan2001/Images_For_ReadMe/blob/main/profile.gif">
   
