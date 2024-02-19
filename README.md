@@ -1,5 +1,6 @@
-[![MasterHead height = 300](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/SmallerCodingMario.gif)](https://github.com/Evaan2001)
 
+
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" src="https://github.com/Evaan2001/Images_For_ReadMe/blob/main/SmallerCodingMario.gif"></a> <br>
 <h1 align="center">Hey There! I'm Evaan 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&random=false&width=435&lines=Salaam+Walaikum!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
