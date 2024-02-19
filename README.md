@@ -35,7 +35,7 @@ width = "900"/>
 
 | Column 1                                        | Column 2                                        | Column 3                                        |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| [Text 1](link_url_1) ![Image 1](image_url_1)   | [Text 2](link_url_2) ![Image 2](image_url_2)   | [Text 3](link_url_3) ![Image 3](image_url_3)   |
+| Binary Classifier [![Image 1](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Binary_Classifier.png)](https://github.com/Evaan2001/Binary_Image_Classifier)  | GPU Sudoku Solver [![Image 2](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Sudoku_Solver.png)](https://github.com/Evaan2001/GPU-Sudoku-Solver)  | Passport OCR Web-App ![Image 3](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/Passport_OCR.png)](https://github.com/Evaan2001/Passport_OCR_App) |
 
 
 <h3 align="left">Languages and Tools:</h3>
