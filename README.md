@@ -9,7 +9,7 @@ width = "900"/>
   
 - 🔭 I’m currently working on **a Live Instagram Scraper**
 
-- 🌱 I’m currently pursuing <a href = "https://www.coursera.org/specializations/deep-learning"> <img alt="Static Badge" src="https://img.shields.io/badge/Deep_Learning_Specialization-black?logo=coursera"></a> by **DeepLearning.AI** 
+- 🌱 I’m currently pursuing <a href = "https://www.coursera.org/specializations/deep-learning"> <img alt="Static Badge" src="https://img.shields.io/badge/Deep_Learning_Specialization-black?style=for-the-badge&logo=coursera"></a> by **DeepLearning.AI** 
 
 - 💬 Ask me about **how I improve my ML work with my theatre experiences**
 
