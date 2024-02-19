@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **how I use my theatre experiences to complement my tech work**
 
-- 📫 How to reach me **ahmedeva@grinnell.edu**
+- 📫 How to reach me **ahmedeva@grinnell.edu | https://www.linkedin.com/in/evaan/**
 
 - 📄 Know about my experiences [<insert g–drive link>](<insert g–drive link>)
 
