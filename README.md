@@ -14,8 +14,8 @@ width = "900"/>
 - 💬 Ask me about **how I improve my ML work with my theatre experiences**
 - <img alt="Static Badge" src="https://img.shields.io/badge/My--LinkedIn-blue?logo=linkedin">
 
--  <a href = "https://www.linkedin.com/in/evaan/"><img src = "https://img.shields.io/badge/My--LinkedIn-blue?logo=linkedin
-"> </a>
+-  <a href = "https://www.linkedin.com/in/evaan/"> <img alt="Static Badge" src="https://img.shields.io/badge/My--LinkedIn-blue?logo=linkedin">
+</a>
   
 - [![Static Badge]("https://img.shields.io/badge/My--LinkedIn-007Fa1?style=for-the-badge")]("https://www.linkedin.com/in/evaan")
 
