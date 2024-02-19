@@ -16,7 +16,8 @@ width = "900"/>
 - 📫 Reach me at **ahmedeva@grinnell.edu or**  <a href = "https://www.linkedin.com/in/evaan/"> <img alt="Static Badge" src="https://img.shields.io/badge/My--LinkedIn-blue?logo=linkedin">
 </a>
 
-- 📄 Know about my experiences [<insert g–drive link>](<insert g–drive link>)
+- 📄 Know about my experiences via <a href = "https://www.linkedin.com/in/evaan/"> <img alt="Static Badge" src="https://img.shields.io/badge/My-Resume-%23FF5454">
+</a>
 
 - ⚡ Fun fact **I'm a big car guy and work on my car by myself**
 
