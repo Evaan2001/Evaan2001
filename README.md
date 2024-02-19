@@ -2,6 +2,7 @@
 
 <h1 align="center">Hey There! I'm Evaan 👋</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=700&lines=Salaam+Walaikum!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Salaam+Walaikum!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
 <h3 align="center">An ML engineer who has deployed production code everywhere I've worked within 2 months of starting 😄</h3>
