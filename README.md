@@ -15,8 +15,6 @@ width = "900"/>
 
 - 📫 How to reach me **ahmedeva@grinnell.edu | [linkedin.com/in/evaan/](https://linkedin.com/in/evaan/)**
 
-- <a href = "insert g–drive link"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah -%23E60023.svg?"></a>
-
 - 📄 Know about my experiences [<insert g–drive link>](<insert g–drive link>)
 
 - ⚡ Fun fact **I'm a big car guy and work on my car by myself**
