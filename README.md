@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the DeepLearning's Deep Learning Specialization on Coursera**
 
-- 💬 Ask me about **how I use my theatre experiences to complement my tech work**
+- 💬 Ask me about **how I improve my ML work with my theatre experiences**
 
 - 📫 How to reach me **ahmedeva@grinnell.edu | [linkedin.com/in/evaan/](https://linkedin.com/in/evaan/)**
 
