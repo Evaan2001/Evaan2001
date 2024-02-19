@@ -1,6 +1,9 @@
 [![MasterHead height = 300](https://github.com/Evaan2001/Images_For_ReadMe/blob/main/SmallerCodingMario.gif)](https://github.com/Evaan2001)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Salaam+Walaikum!+I'm+Evaan+%3A+D;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&random=false&width=435&lines=Salaam+Walaikum!+I'm+Evaan+!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 
 <h1 align="center">Hey There! I'm Evaan 👋</h1>
