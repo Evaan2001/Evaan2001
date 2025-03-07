@@ -7,9 +7,7 @@ width = "900"/>
 <h3 align="center">An ML engineer who has deployed production code at each of the 4 companies I've worked within 2 months of starting 😄</h3>
 <img align="right" alt="Coding GIF" width = 400 height = 250 src = "https://github.com/Evaan2001/Images_For_ReadMe/blob/main/profile.gif">
   
-- 🔭 I’m currently working on **a Live Instagram Scraper**
-
-- 🌱 I’m currently pursuing <a href = "https://www.coursera.org/specializations/deep-learning"> <img alt="Static Badge" src="https://img.shields.io/badge/Deep_Learning_Specialization-black?style=flat-square&logo=coursera"></a> by **DeepLearning.AI** 
+- 🔭 I’m currently working on an app to **hack into a car** and program new features as if they were shipped by a manufacturer
 
 - 💬 Ask me about **how I improve my ML work with my theatre experiences**
 
